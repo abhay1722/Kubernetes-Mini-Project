@@ -1,7 +1,5 @@
 # Kubernetes Mini Project
 
-* This is a sample project used to depict the working of Kubernetes setup.
-
 
 #### Please refer to https://hub.docker.com/r/abhay1722/node-red for the images used to implement this project and the appropriate build instructions to generate build and test artifacts.
 
@@ -24,3 +22,4 @@
   *	Use the `node-red-chart` file , obtained using `helm package <chart name>`, with which the charts can be installed.
   *	You can then access the Node-RED editor by running the steps specified on the command line.
 
+_**Note**: This is a sample project used to depict the working of Kubernetes setup._
