@@ -19,7 +19,7 @@
   *	Helm create a starter directory structure for the helm chart 
   *	Replace the Kubernetes artifacts written by you in the helm chart.
   *	Run `helm install –name node-red-helm-chart node-red/charts/` to install the helm charts for node-red.
-  *	Use the `node-red-chart` file , obtained using `helm package <chart name>`, with which the charts can be installed.
+  *	Use the `node-red-chart-0.1.0.tgz` file , obtained using `helm package <chart name>`, with which the charts can be installed.
   *	You can then access the Node-RED editor by running the steps specified on the command line.
 
 _**Note**: This is a sample project used to depict the working of Kubernetes setup._
